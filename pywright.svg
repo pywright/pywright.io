@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1280" viewBox="0 0 1280 1280" role="img" aria-labelledby="title desc">
+  <title id="title">Pywright — shaded PW monogram</title>
+  <desc id="desc">Editable vector reconstruction of the selected teal P and orange W logo. Transparent background, shaded facets and edge highlights; no embedded bitmap.</desc>
+<defs>
+<linearGradient id="teal" x1="0" y1="0" x2="100%" y2="100%"><stop stop-color="#04b1bb"/><stop offset=".52" stop-color="#00c2cc"/><stop offset="1" stop-color="#00a7b5"/></linearGradient>
+<linearGradient id="orange" x1="0" y1="0" x2="100%" y2="100%"><stop stop-color="#ff9218"/><stop offset=".55" stop-color="#ffab2d"/><stop offset="1" stop-color="#f68b10"/></linearGradient>
+<linearGradient id="tealshade"><stop stop-color="#003b43"/><stop offset=".5" stop-color="#006c76"/><stop offset="1" stop-color="#004b55"/></linearGradient>
+<linearGradient id="orangeshade"><stop stop-color="#723006"/><stop offset=".5" stop-color="#ba5708"/><stop offset="1" stop-color="#853204"/></linearGradient>
+</defs>
+  <g id="w-depth" fill="url(#orangeshade)">
+    <path d="M354 673 378 661 492 737 492 797 690 678 904 810 971 768 971 922 910 961 910 1044 683 895 403 1085 346 1048Z"/>
+    <path d="M891 402 1083 280 1109 296 1109 940 931 1074 910 1054 910 963 972 924 972 779 905 820 887 802Z"/>
+  </g>
+  <g id="w-faces" fill="url(#orange)">
+    <path d="M370 690 470 754 470 830 687 701 904 838 969 797 969 922 910 962 910 1044 683 862 403 1058 370 1037Z"/>
+    <path d="M918 416 1082 309 1082 930 935 1039 935 979 994 939 994 756 918 804Z"/>
+  </g>
+  <g id="w-top-facets" fill="#F9AE45">
+    <path d="M354 673 370 690 470 754 492 737 378 661Z"/>
+    <path d="M470 830 492 797 690 678 904 810 971 768 969 797 904 838 687 701Z"/>
+    <path d="M891 402 1083 280 1109 296 1082 309 918 416Z"/>
+    <path d="M910 962 969 922 994 939 935 979Z"/>
+  </g>
+  <g id="w-side-facets" fill="#C16A13">
+    <path d="M1082 309 1109 296 1109 940 1082 930Z"/>
+    <path d="M935 1039 1082 930 1109 940 931 1074 910 1054Z"/>
+    <path d="M403 1058 683 862 683 895 403 1085Z"/>
+    <path d="M683 862 910 1044 910 1054 931 1074 683 895Z"/>
+  </g>
+  <g id="w-inner-upright">
+    <path fill="url(#orangeshade)" d="M354 398 376 384 494 448 494 607 468 590 354 527Z"/>
+    <path fill="url(#orange)" d="M369 409 468 463 468 581 369 522Z"/>
+    <path fill="#F9AE45" d="M354 398 376 384 494 448 468 463 369 409Z"/>
+    <path fill="#C16A13" d="M468 463 494 448 494 607 468 581Z"/>
+  </g>
+  <g id="p-stem">
+    <path fill="url(#tealshade)" d="M175 288 308 200 308 310 382 355 339 395 339 538 430 588 430 637 383 666 339 638 339 1049 175 940Z"/>
+    <path fill="url(#teal)" d="M202 302 308 231 308 310 382 355 339 395 339 538 430 588 430 637 383 666 339 638 339 1019 202 930Z"/>
+    <path fill="#29BCC4" d="M175 288 308 200 308 231 202 302Z"/>
+    <path fill="#00424a" d="M175 288 202 302 202 930 175 940Z"/>
+    <path fill="#087885" d="M175 940 202 930 339 1019 339 1049Z"/>
+  </g>
+  <g id="p-joint"><path fill="#005561" d="M430 581 455 581 455 636 398 666 398 689 383 666 430 637Z"/></g>
+  <g id="p-bowl">
+    <path fill="url(#tealshade)" d="M308 200 414 130 866 404 866 557 525 779 398 689 398 666 455 636 455 581 495 608 648 506 403 363 382 355 308 310Z"/>
+    <path fill="url(#teal)" d="M339 210 414 157 840 421 840 543 525 751 414 676 455 650 455 600 495 626 692 506 339 294Z"/>
+    <path fill="#29BCC4" d="M308 200 414 130 866 404 840 421 414 157 339 210Z"/>
+    <path fill="#00424a" d="M308 200 339 210 339 294 692 506 648 506 403 363 382 355 308 310Z"/>
+    <path fill="#087885" d="M862 421 866 404 866 557 840 543Z"/>
+    <path fill="url(#tealshade)" d="M525 751 840 543 866 557 525 779 398 689 414 676Z"/>
+    <path fill="#239EAA" d="M455 581 495 608 648 506 692 506 495 626 455 600Z"/>
+    <path fill="#087885" d="M398 666 455 636 455 650 414 676 398 689Z"/>
+  </g>
+<g id="edge-highlights" fill="none" stroke-linejoin="miter" stroke-linecap="butt">
+<path stroke="#a9ffff" stroke-width="3" d="M202 302 307 232 M339 210 414 157 840 408 M308 312 382 356 M339 538 430 588 M455 650 414 676 M455 600 495 626 687 510"/>
+<path stroke="#36dee4" stroke-width="1.6" d="M202 303V930L339 1019 M414 676 525 751 840 543 840 421"/>
+<path stroke="#fff2b9" stroke-width="3" d="M369 409 468 455 M370 690 470 754 M470 830 687 701 904 838 969 797 M918 416 1082 309 M935 979 994 939"/>
+<path stroke="#ffc05d" stroke-width="1.5" d="M370 690V1037L403 1058 683 862 910 1044 M1082 310V930L935 1039 M994 756V939"/>
+</g>
+</svg>
